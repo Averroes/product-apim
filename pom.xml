@@ -1385,7 +1385,7 @@
         <org.apache.tomcat>7.0.96</org.apache.tomcat>
         <org.codehaus.jackson.version>1.9.13</org.codehaus.jackson.version>
         <carbon.rest.api.version>4.2.2</carbon.rest.api.version>
-        <rampart.wso2.version>1.6.1-wso2v43</rampart.wso2.version>
+        <rampart.wso2.version>1.7.1</rampart.wso2.version>
         <slf4j.api.version>1.7.28</slf4j.api.version>
         <org.slf4j.version>1.7.30</org.slf4j.version>
         <google.code.gson.version>2.8.5</google.code.gson.version>
@@ -1469,7 +1469,7 @@
         <apim.analytics.publisher.version>1.0.8</apim.analytics.publisher.version>
         <disruptor.orbit.version>3.4.2.wso2v1</disruptor.orbit.version>
         <opensaml2.version>2.6.6.wso2v4</opensaml2.version>
-        <rampart.wso2.version>1.7.0-wso2v1</rampart.wso2.version>
+        <rampart.wso2.version>1.7.1</rampart.wso2.version>
         <wss4j.version>1.6.0-wso2v2</wss4j.version>
     </properties>
 
