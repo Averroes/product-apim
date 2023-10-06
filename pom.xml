@@ -1323,7 +1323,7 @@
         <org.jaggery.version>0.14.13</org.jaggery.version>
 
         <!-- Carbon Multitenancy version-->
-        <carbon.multitenancy.version>4.9.10</carbon.multitenancy.version>
+        <carbon.multitenancy.version>4.10.1</carbon.multitenancy.version>
 
         <siddhi.version>3.2.7</siddhi.version>
 
